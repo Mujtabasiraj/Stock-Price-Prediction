@@ -50,7 +50,7 @@ Evaluate using R² score and Mean Squared Error (MSE).
 
 Visualize results using matplotlib.
 
-# User Interface (Optional Enhancement):
+# User Interface :
 
 Integrate with Gradio to allow users to input stock symbols (e.g., “AAPL”, “GOOG”) and visualize predicted prices.
 
@@ -67,7 +67,7 @@ Matplotlib / Seaborn
 
 yFinance
 
-Gradio (optional for web UI)
+Gradio 
 
 # OUTPUT
 Predicted vs Actual stock prices plotted on a graph.
